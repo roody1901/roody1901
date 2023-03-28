@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @roody1901
+- 👋 Hi, I’m a Software Engineer
 - 👀 I’m interested in Coding and Develop Apps
-- 🌱 I’m currently learning Mern Stack
 - 📫 How to reach me vibhanshu.p19@gmail.com
 
 <!---
