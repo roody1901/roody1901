@@ -1,7 +1,6 @@
 - 👋 Hi, I’m a Software Engineer by Profession
 - 🌱 Currenlty working on .Net Technology, Also worked on Java, SpringBoot
 - 🔭 Right Now , I am learning frontend development (ReactJs)
-- ⚡Looking to work on Reactjs
 - 👀 I’m interested in Coding and Develop Apps
 - 📫 How to reach me vibhanshu.p19@gmail.com
 
