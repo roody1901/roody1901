@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a Software Engineer by Profession
-- 🌱 Currenlty working on .Net Technology, Also worked on Java, SpringBoot
-- 🔭 Right Now , I am learning frontend development (ReactJs)
+- 🌱 Worked on multiple tech stack like Java, SpringBoot, dotnet
+- 🔭 Right Now , I am kafka and redis
 - 👀 I’m interested in Coding and Develop Apps
 - 📫 How to reach me vibhanshu.p19@gmail.com
 
